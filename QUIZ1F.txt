@@ -1,0 +1,1 @@
+It is functional because it already has an operating system and the source of its power is workin well. We knew that it is functioning because the red indicator (LED) is on (steady) and the other green indicator (LED) is blinking. Thus, functioning.
